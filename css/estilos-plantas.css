@@ -1,0 +1,22 @@
+blockquote, q {
+	font-style: italic;
+}
+
+img {
+	border: 4px solid limegreen;
+	margin: 0 auto;
+    display: flex;
+}
+
+.box {
+	display: inline-flex;
+	width: 100%;
+}
+
+.planta1 {
+	margin-right: 0;
+}
+
+.planta2 {
+	margin-left: 2%;
+}
